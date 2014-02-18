@@ -1,4 +1,4 @@
 angular
 =======
 
-AngularJS Sandbox
+This a my Sandbx for trying cool AngularJS stuff.
